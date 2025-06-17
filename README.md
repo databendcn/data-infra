@@ -1,6 +1,6 @@
 # 关于 Data Infra
 
-Data Infra 是 [Databend](https://github.com/datafuselabs/databend) Labs 下面以交流数据架构相关技术的社区。
+Data Infra 是 [Databend Labs](https://github.com/databendlabs) 下面以交流数据架构相关技术的社区。
 
 回放地址： https://space.bilibili.com/275673537/channel/collectiondetail?sid=807783
 
