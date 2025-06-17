@@ -22,6 +22,6 @@ Data Infra 是 [Databend](https://github.com/datafuselabs/databend) Labs 下面�
 
 ## 感谢：
 
-Databend: https://github.com/datafuselabs/databend
+Databend: https://github.com/databendlabs/databend
 
-Databend Docs: https://databend.rs/docs
+Databend Docs: https://docs.databend.com/guides/
